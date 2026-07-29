@@ -1,0 +1,150 @@
+/* Global CSS */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+
+.site-header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #d9e2ec;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    width: 100%;
+
+}
+
+.header-container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    min-height: 76px;
+
+}
+
+.site-logo {
+    color: #003b70;
+    font-size: 1.25rem;
+    font-weight: 700;
+
+}
+
+.menu-toggle {
+    background: none;
+    border: 0;
+    color: #003b70;
+    cursor: pointer;
+    display: none;
+    font-size: 1.8rem;
+
+}
+
+.main-navigation {
+
+}
+
+.navigation-list {
+    align-items: center;
+    display: flex;
+    gap: 0.5rem;
+}
+
+.active {
+
+}
+
+.hero {
+
+}
+
+.hero-label {
+
+}
+
+.button {
+
+}
+
+.button-secondary {
+
+}
+
+.semester-overview {
+
+}
+
+.section-heading {
+    margin-bottom: 2rem;
+
+} 
+
+.section-label {
+
+} 
+
+.dashboard-grid {
+
+}
+
+.dashboard-card {
+
+}
+
+.homepage-content {
+
+}
+
+.content-layout {
+
+}
+
+.main-column {
+
+}
+
+.notice-card {
+
+}
+
+.notice-category {
+
+} 
+
+.sidebar {
+
+}
+
+.sidebar-card {
+
+} 
+
+.quick-links {
+
+}
+
+.footer {
+
+}
+
+.footer-content {
+    align-items: start;
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+
+}
